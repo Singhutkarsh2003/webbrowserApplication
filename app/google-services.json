@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554832947705",
+    "project_id": "webbrowserapplication",
+    "storage_bucket": "webbrowserapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554832947705:android:42b882570cd48ef8037528",
+        "android_client_info": {
+          "package_name": "com.example.webbrowserapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ooWffWG1j7fnckPPtijj5c_zYbZwp8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
